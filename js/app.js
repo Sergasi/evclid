@@ -7,3 +7,4 @@ burger.addEventListener('click', () => {
 burgerClose[0].addEventListener('click', () => {
     header.classList.remove('opened')
 })
+console.log('pidor')
